@@ -1,0 +1,13 @@
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\bin\Debug\netcoreapp3.1\CsharpEx02.exe
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\bin\Debug\netcoreapp3.1\CsharpEx02.deps.json
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\bin\Debug\netcoreapp3.1\CsharpEx02.runtimeconfig.json
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\bin\Debug\netcoreapp3.1\CsharpEx02.runtimeconfig.dev.json
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\bin\Debug\netcoreapp3.1\CsharpEx02.dll
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\bin\Debug\netcoreapp3.1\CsharpEx02.pdb
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.csprojAssemblyReference.cache
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.AssemblyInfoInputs.cache
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.AssemblyInfo.cs
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.csproj.CoreCompileInputs.cache
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.dll
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.pdb
+C:\Users\supre\MSSA2021\Csharp\CsharpEx02\obj\Debug\netcoreapp3.1\CsharpEx02.genruntimeconfig.cache

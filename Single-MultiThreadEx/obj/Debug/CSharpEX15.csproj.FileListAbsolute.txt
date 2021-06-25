@@ -1,0 +1,7 @@
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\bin\Debug\CSharpEX15.exe.config
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\bin\Debug\CSharpEX15.exe
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\bin\Debug\CSharpEX15.pdb
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\obj\Debug\CSharpEX15.csprojAssemblyReference.cache
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\obj\Debug\CSharpEX15.csproj.CoreCompileInputs.cache
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\obj\Debug\CSharpEX15.exe
+C:\Users\supre\MSSA2021\Csharp\CSharpEX15\obj\Debug\CSharpEX15.pdb
